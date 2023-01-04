@@ -1,4 +1,4 @@
-对标CentBrowser设置的优化策略批处理源代码
+# 对标CentBrowser设置的优化策略批处理源代码
 
 @echo off
 
